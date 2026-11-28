@@ -1,0 +1,13 @@
+{
+  "name": "database-lock-escalation-recovery-planner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Simulated lock escalation planner: computes safe escalation sets, victim transactions and remaining wait cycles.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=24.16.0"
+  }
+}
